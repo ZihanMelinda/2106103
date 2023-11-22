@@ -1,0 +1,35 @@
+.kotak {
+    width: 100px;
+    margin: 0 auto;
+    background-color: brown;
+}
+
+.form-input {
+    display: block;
+    margin-bottom: 10px;
+    background-color: indianred;
+}
+
+.tombol {
+    text-align: center;
+}
+
+.btn-simpan, .btn-batal {
+    padding: 5px 10px;
+    margin-right: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 30%;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid red;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
